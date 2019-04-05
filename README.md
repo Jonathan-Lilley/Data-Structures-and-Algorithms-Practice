@@ -9,9 +9,9 @@ Anything listed under "to upload" has been implemented, but has not been uploade
 Data structures implemented and uploaded: 
 -Binary Search Trees
 -Singly Linked Lists
+-Stacks, queues
 
 Data structures to upload:
--Stacks, queues
 -Hash table; python dictionary recreation
 
 Data structures to implement:
